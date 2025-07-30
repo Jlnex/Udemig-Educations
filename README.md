@@ -1,7 +1,7 @@
 # Udemig-Educations
 
 + Udemig Education Hakkında
-Bir eğitim sitesi yaptık, bu site tamamen responsive, yani her türlü ekranda süper görünüyor. Temeli için HTML kullandık, stilini şıklaştırmak için SCSS ile giydirdik ve interaktif özellikler eklemek için de JavaScript kullandık. Modern ve her cihaza uyumlu olması için de Flexbox ve CSS Grid gibi son teknoloji tasarım araçlarından faydalandık.
+Bir eğitim sitesi yaptım, bu site tamamen responsive, yani her türlü ekranda süper görünüyor. Temeli için HTML kullandım, stilini şıklaştırmak için SCSS ile giydirdim ve interaktif özellikler eklemek için de JavaScript kullandım. Modern ve her cihaza uyumlu olması için de Flexbox ve CSS Grid gibi son teknoloji tasarım araçlarından faydalandım.
 
 
 # 🧰 Kullanılan Teknolojiler
